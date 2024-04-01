@@ -355,7 +355,7 @@ function resize_init() {
 }
 // INTERVAL ID
 let spawnInterval;
-let spawnTime = 2000;
+let spawnTime = 1000;
 
 // SPAWN ALGORITHM
 
